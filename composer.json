@@ -75,7 +75,8 @@
         "pear/pear_frontend_web": "For Web support"
     },
     "replace": {
-        "pear/pear-core-minimal": "*"
+        "pear/pear-core-minimal": "*",
+        "pear-pear.php.net/PEAR": "self.version"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
